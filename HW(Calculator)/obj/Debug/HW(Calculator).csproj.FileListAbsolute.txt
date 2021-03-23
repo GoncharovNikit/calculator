@@ -1,0 +1,15 @@
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\bin\Debug\HW(Calculator).exe.config
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\bin\Debug\HW(Calculator).exe
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\bin\Debug\HW(Calculator).pdb
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator).csprojAssemblyReference.cache
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\MainWindow.g.cs
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\App.g.cs
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator)_MarkupCompile.cache
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator)_MarkupCompile.lref
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\MainWindow.baml
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator).g.resources
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW_Calculator_.Properties.Resources.resources
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator).csproj.GenerateResource.cache
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator).csproj.CoreCompileInputs.cache
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator).exe
+B:\WPF\Homeworks\HW(Calculator)\HW(Calculator)\obj\Debug\HW(Calculator).pdb

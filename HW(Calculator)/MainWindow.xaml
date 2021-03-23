@@ -1,0 +1,42 @@
+﻿<Window x:Class="HW_Calculator_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW_Calculator_"
+        mc:Ignorable="d"
+        Title="Calculator" Height="450" Width="600">
+    <DockPanel>
+        <TextBox IsReadOnly="True" Name="textBox" Height="100" DockPanel.Dock="Top"></TextBox>
+        <Grid DockPanel.Dock="Bottom">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Click="btn_numeric_click" Grid.Row="0" Grid.Column="0" Content="1" />
+            <Button Click="btn_numeric_click" Grid.Row="1" Grid.Column="0" Content="5" />
+            <Button Click="btn_numeric_click" Grid.Row="2" Grid.Column="0" Content="9" />
+            <Button Click="btn_operation_click" Grid.Row="3" Grid.Column="0" Content="*" />
+            <Button Click="btn_numeric_click" Grid.Row="0" Grid.Column="1" Content="2" />
+            <Button Click="btn_numeric_click" Grid.Row="1" Grid.Column="1" Content="6" />
+            <Button Click="btn_numeric_click" Grid.Row="2" Grid.Column="1" Content="0" />
+            <Button Click="btn_operation_click" Grid.Row="3" Grid.Column="1" Content="/" />
+            <Button Click="btn_numeric_click" Grid.Row="0" Grid.Column="2" Content="3" />
+            <Button Click="btn_numeric_click" Grid.Row="1" Grid.Column="2" Content="7" />
+            <Button Click="btn_operation_click" Grid.Row="2" Grid.Column="2" Content="+" />
+            <Button Click="btn_equal_click" Grid.Row="3" Grid.Column="2" Content="=" />
+            <Button Click="btn_numeric_click" Grid.Row="0" Grid.Column="3" Content="4" />
+            <Button Click="btn_numeric_click" Grid.Row="1" Grid.Column="3" Content="8" />
+            <Button Click="btn_operation_click" Grid.Row="2" Grid.Column="3" Content="-" />
+            <Button Click="btn_clear_click" Grid.Row="3" Grid.Column="3" Content="CLEAR" />
+        </Grid>
+    </DockPanel>
+</Window>
